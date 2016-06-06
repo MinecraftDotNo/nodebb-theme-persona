@@ -1,7 +1,7 @@
-Persona theme for NodeBB
+Minecraft.no theme for NodeBB
 ====================
 
-Persona is the new default theme for NodeBB as of v0.7.1
+A fork of Persona, the new default theme for NodeBB as of v0.7.1
 
 ## Addons
 
